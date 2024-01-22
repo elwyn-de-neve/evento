@@ -22,6 +22,9 @@ export default function Home() {
         <p>Popular: </p>
         <ul className="flex gap-x-2 font-semibold">
           <li>
+            <Link href="/events/amsterdam">Amsterdam</Link>
+          </li>
+          <li>
             <Link href="/events/austin">Austin</Link>
           </li>
           <li>

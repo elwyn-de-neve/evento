@@ -11,6 +11,10 @@ const routes = [
     path: "/",
   },
   {
+    name: "New Events",
+    path: "/new-event/",
+  },
+  {
     name: "All Events",
     path: "/events/all",
   },
